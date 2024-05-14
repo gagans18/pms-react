@@ -1,12 +1,12 @@
 #link1:hover {
-    background-color: grey;
-    border-radius: 10px;
- }
- #link2:hover {
-    background-color: grey;
-    border-radius: 10px;
- }
- #link3:hover {
-    background-color: grey;
-    border-radius: 10px;
- }
+  background-color: grey;
+  border-radius: 10px;
+}
+#link2:hover {
+  background-color: grey;
+  border-radius: 10px;
+}
+#link3:hover {
+  background-color: grey;
+  border-radius: 10px;
+}

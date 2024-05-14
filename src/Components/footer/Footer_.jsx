@@ -1,17 +1,14 @@
 function Footer_() {
-
-    const design = (
-        <footer className="footer fixed-bottom bg-dark">
-        <div className="container text-center">
-            <span className="text-white  text-uppercase">
-               Copyrights &copy; Excelsoft
-            </span>
-        </div>
+  const design = (
+    <footer className="footer fixed-bottom bg-dark">
+      <div className="container text-center">
+        <span className="text-white  text-uppercase">
+          Copyrights &copy; Excelsoft
+        </span>
+      </div>
     </footer>
-    )
-    return design
-
-
+  );
+  return design;
 }
 
-export default Footer_
+export default Footer_;
